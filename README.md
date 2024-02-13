@@ -4,6 +4,14 @@
 
 順便練習 Nuxt 3。
 
+## 開發
+
+- Nuxt 3
+- Tailwind CSS
+- TypeScript
+- Vite
+- pnpm
+
 ## 功能
 
 分三個頁簽:
